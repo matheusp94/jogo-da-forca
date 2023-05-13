@@ -1,4 +1,4 @@
-palavra = 'python'
+palavra = 'paralelepipedo'
 letras_usuario = []
 chances = 7
 ganhou = False
